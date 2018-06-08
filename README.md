@@ -1,3 +1,10 @@
+## TODO:
+
+- Do all the installation on a mac
+- https://rnfirebase.io/docs/v4.2.x/installation/initial-setup
+- change this readme
+
+
 #  ride
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
