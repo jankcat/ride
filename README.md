@@ -7,6 +7,7 @@
 - https://rnfirebase.io/docs/v4.2.x/firestore/ios
 - https://rnfirebase.io/docs/v4.2.x/config/ios
 - https://github.com/facebook/react-native-fbsdk native install
+- https://github.com/react-native-community/react-native-google-signin native install 
 - change this readme
 
 
