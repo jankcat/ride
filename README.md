@@ -2,6 +2,10 @@
 
 - Do all the installation on a mac
 - https://rnfirebase.io/docs/v4.2.x/installation/initial-setup
+- https://rnfirebase.io/docs/v4.2.x/installation/ios
+- https://rnfirebase.io/docs/v4.2.x/auth/ios
+- https://rnfirebase.io/docs/v4.2.x/firestore/ios
+- https://rnfirebase.io/docs/v4.2.x/config/ios
 - change this readme
 
 
